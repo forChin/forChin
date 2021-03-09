@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 <!--
 **forChin/forChin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=forchin)
+
+![forChin's GitHub stats](https://github-readme-stats.vercel.app/api?username=forChin&hide=prs,contribs,issues&show_icons=true&theme=dark&custom_title=forChin's+GitHub+stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forChin&count_private=true&hide=contribs,makefile,shell,html&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
