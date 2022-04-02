@@ -35,8 +35,10 @@ I am a Backend Developer.
 </p>
 
 
-### My stats:
+### My Leetcode stats:
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forChin&count_private=true&hide=contribs,makefile,shell,html&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=forChin&theme=dark&show_rank=false)](https://leetcode.com/forChin)
 
