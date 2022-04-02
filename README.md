@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a Backend Developer.
 - 🔭 I’m currently working on my own programming language.
-- ⚡ In my free time I solve [leetcode](https://leetcode.com/) problems and study Computer Science.
+- ⚡ In my free time I solve [leetcode](https://leetcode.com/forChin/) problems and study Computer Science.
 - ✨ [My awards, prizes, certificates and so on](https://gist.github.com/forChin/701c8d39eb0639ce6ee0c8cb2e7e880f)
 <!--- - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-seniorGo-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/seniorGo) -->
 
