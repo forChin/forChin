@@ -1,4 +1,4 @@
-# Hey there 👋
+# About me 👋
 
 <!--
 **forChin/forChin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=forСhin)
 
-### About me
 I am a Backend Developer.
 - 🔭 I’m currently working on my own programming language.
 - ⚡ In my free time I solve [leetcode](https://leetcode.com/) problems and study Computer Science.
