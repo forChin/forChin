@@ -1,4 +1,4 @@
-# About me 👋
+# Welcome to my Github page!
 
 <!--
 **forChin/forChin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=forСhin)
 
+### About me
 I am a Backend Developer.
 - 🔭 I’m currently working on my own programming language.
 - ⚡ In my free time I solve [leetcode](https://leetcode.com/forChin/) problems and study Computer Science.
 - ✨ [My awards, prizes, certificates and so on](https://gist.github.com/forChin/701c8d39eb0639ce6ee0c8cb2e7e880f)
 <!--- - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-seniorGo-blue?style=flat&logo=Telegram&logoColor=white)](http://t.me/seniorGo) -->
-
-### Languages and Tools :
+---
+### Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp &nbsp &nbsp;
@@ -35,8 +36,9 @@ I am a Backend Developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp &nbsp &nbsp;
 </p>
 
+---
 
-### My Leetcode stats:
+### My Leetcode stats
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forChin&count_private=true&hide=contribs,makefile,shell,html&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
